@@ -1,6 +1,5 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: lliurex-connect
-Source: http://svn.lliurex.net/xenial/lliurex-connect
 
 Files: *
 Copyright: 2017 José Alfredo Murcia Andrés <joamuran@gmail.com>
