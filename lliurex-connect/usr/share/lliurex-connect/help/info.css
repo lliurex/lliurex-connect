@@ -1,0 +1,53 @@
+html{
+    font-family: "Noto Sans", "Ubuntu";
+    font-size: small;
+}
+
+.inforow{
+    width: 100%;
+    float: left;
+    clear: both;
+    margin: 10px;
+}
+    
+.link{
+    clear: both;
+    display: block;
+    }
+    
+.infoicon{
+    width: 48px;
+    height: 48px;
+    float: left;
+    clear: left;
+    margin-right: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+        
+        
+.infotext{
+    width: 500px;
+    float: left;
+    clear: right;
+}
+
+.mirror{
+    background-image: url(../img/mirror.png);
+}
+
+
+
+.chrome{
+    background-image: url(../img/chrome.png);
+}
+
+
+.allcast_reveicer{
+    background-image: url(../img/allcast_receiver.png);
+}
+
+
+.xsdl{
+    background-image: url(../img/xsdl.png);
+}

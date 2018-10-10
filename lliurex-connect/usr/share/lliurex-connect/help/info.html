@@ -1,0 +1,68 @@
+<html style="width:640px; height:480px">
+    <head>
+        <link rel="stylesheet" href="info.css">
+        <script src="jquery-2.1.4.js"></script>
+        <script>
+            function populateText(description, google_desc, google_link, allcast_desc, allcast_link, mirroring_desc,
+                                  mirroring_link, xserver_desc, xserver_link){
+                $("#info").append(description);
+                /*$("#desc_chrome").append(google_desc);
+                $("#google_link").append(google_link);
+                $("#desc_allcast_rcv").append(allcast_desc);
+                $("#allcast_link").append(allcast_link);*/
+                $("#mirror_description").append(mirroring_desc);
+                $("#mirroring_link").append(mirroring_link);
+                $("#xserver_desc").append(xserver_desc);
+                $("#xserver_link").append(xserver_link);
+                
+            }
+        </script>
+    </head>
+    
+    <!--body onload="tralari();"-->
+    <body>
+    <h1>LliureX Connect</h1>
+    <div id="info">
+    
+    </div>
+    
+    
+    <!--div class="inforow">
+        <div class="infoicon chrome"></div>
+        <div class="infotext">
+        <span id="desc_chrome"></span>
+        <a id="google_link" class="link" href="https://www.google.es/chrome/browser/desktop/index.html">
+        </a>
+        </div>
+    </div>
+    
+    <div class="inforow">
+        <div class="infoicon allcast_reveicer"></div>
+        <div class="infotext">
+        <span id="desc_allcast_rcv"></span>
+        <a id="allcast_link" class="link" href="https://chrome.google.com/webstore/detail/allcast-receiver/hjbljnpdahefgnopeohlaeohgkiidnoe?hl=ca&utm_source=chrome-ntp-launcher"></a>
+        </div>
+    </div-->
+    
+    
+    <div class="inforow">
+        <div class="infoicon mirror"></div>
+        <div class="infotext">
+            <span id="mirror_description"></span>
+        <a id="mirroring_link" class="link" href="https://play.google.com/store/apps/details?id=com.screencast">
+        </a>
+        </div>
+        
+    </div>
+    
+    <div class="inforow">
+        <div class="infoicon xsdl"></div>
+        <div class="infotext" id="xsdl_description">
+            <span id="xserver_desc"></span>
+        <a id="xserver_link" class="link" href="https://play.google.com/store/apps/details?id=x.org.server">
+        </a>
+        </div>
+    </div>
+    
+    </body>
+</html>

@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Pilar Embid Giner <embid_mar@gva.es>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-15 12:21+0200\n"
+"PO-Revision-Date: 2017-06-15 12:31+0200\n"
+"Last-Translator: Pilar Embid Giner <embid_mar@gva.es>\n"
+"Language-Team: LliureX\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+#: ../lliurex-connect/usr/share/lliurex-connect/connectionAssistant.py:73
+#: ../lliurex-connect/usr/share/lliurex-connect/connectionAssistant.py:118
+msgid "Disable Wireless Management"
+msgstr "Desactiveu la gestió de xarxes inalàmbriques"
+
+#: ../lliurex-connect/usr/share/lliurex-connect/connectionAssistant.py:76
+#: ../lliurex-connect/usr/share/lliurex-connect/connectionAssistant.py:129
+msgid "Enable Wireless Management"
+msgstr "Activeu la gestió de xarxes inalàmbriques"
+
+#: ../lliurex-connect/usr/share/lliurex-connect/connectionAssistant.py:83
+msgid "Mirror Android on this computer"
+msgstr "Activar el Mirroring d'Android en aquest ordinador"
+
+#: ../lliurex-connect/usr/share/lliurex-connect/connectionAssistant.py:86
+msgid "Launch Application into Android XSDL Server"
+msgstr "Carregueu una aplicació al servidor Android XSDL"
+
+#: ../lliurex-connect/usr/share/lliurex-connect/connectionAssistant.py:89
+msgid "Help Screen"
+msgstr "Pantalla d'ajuda"
+
+#: ../lliurex-connect/usr/share/lliurex-connect/connectionAssistant.py:92
+msgid "Quit"
+msgstr "Ix"
+
+#: ../lliurex-connect/usr/share/lliurex-connect/splash.py:61
+msgid "Show this message"
+msgstr "Mostreu aquest missatge"
+
+#: ../lliurex-connect/usr/share/lliurex-connect/splash.py:90
+msgid ""
+"LliureX Connect is an small assistant to achieve the connection between "
+"tablet and your LliureX computer. For use it, you need to have installed "
+"some apps in your tablet:"
+msgstr ""
+"LliureX Connect és un assistent que ens permet realitzar la connexió entre "
+"la nostra tauleta Android i el nostre ordinador amb LliueX. Per a això, cal "
+"que tingau instal·lades algunes aplicacions a la tauleta:"
+
+#: ../lliurex-connect/usr/share/lliurex-connect/splash.py:91
+msgid ""
+"You need Google Chrome to use Mirroring capabilities in this computer. Press "
+"the following link to download Google Chrome."
+msgstr ""
+"Necessiteu Google Chrome per utilitzar el mirroring en aquest ordinadror. "
+"Premeu el següent enllaç per descarregar Google Chrome."
+
+#: ../lliurex-connect/usr/share/lliurex-connect/splash.py:92
+msgid "Download Chrome"
+msgstr "Descarregar el Chrome"
+
+#: ../lliurex-connect/usr/share/lliurex-connect/splash.py:93
+msgid ""
+"Allcast Receiver is a Google Chrome App to receive video streaming from an "
+"Android Device through Recording and Mirroring App."
+msgstr ""
+"AllCast Receiver és una app del Google Chrome per tal de rebre vídeo per "
+"streaming des d'un dispositiu Android, a través de l'aplicació Recording and "
+"Mirroring."
+
+#: ../lliurex-connect/usr/share/lliurex-connect/splash.py:94
+msgid "Download AllCast Receiver"
+msgstr "Descarrega AllCast Receiver"
+
+#: ../lliurex-connect/usr/share/lliurex-connect/splash.py:95
+msgid ""
+"Screen Cast is an Android App that allows us to view our tablet content in a "
+"browser window in our computer."
+msgstr "L'Screen Cast és una aplicació d'Android que ens permet veure el contnigut "
+"de la tauleta en el nostre ordinador."
+
+#: ../lliurex-connect/usr/share/lliurex-connect/splash.py:96
+msgid "Go to app Screen Cast in Google Play"
+msgstr "Aneu a l'aplicació Screen Cast en Google Play"
+
+#: ../lliurex-connect/usr/share/lliurex-connect/splash.py:97
+msgid ""
+"XDSL Server is a Linux graphical server for your Android device. It alloys "
+"you to launch any application in yout system and see it in your device."
+msgstr ""
+"XSDL és un servidor gràfic per al vostre dispositiu amb Android. Permet "
+"carregar aplicacions del sistema i llançar-les a un dispoitiu móbil."
+
+#: ../lliurex-connect/usr/share/lliurex-connect/splash.py:98
+msgid "Go to app X Server for Android in Google Play"
+msgstr "Aneu a l'aplicació X Server per a Androd en Google Play."
+
+#~ msgid ""
+#~ "Screen Recording and Mirror allows you to send video streaming to AllCast "
+#~ "Receiver Google Chrome app."
+#~ msgstr ""
+#~ "Screen Recording And Mirror us permet enviar difusió de vídeo a "
+#~ "l'aplicación de Google Chrome AllCast Receiver."

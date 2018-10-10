@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=LliureX Connect
+Name[es]=LliureX Connect
+Name[qcv]=LliureX Connect
+Name[ca_ES@valencia]=LliureX Connect
+Name[ca_ES.UTF-8@valencia]=LliureX Connect
+Comment=Connection Assistant for LliureX and tablets
+Comment[es]=Asistente de conexión entre LliureX y tabletas
+Comment[ca_ES@valencia]=Assistent de connexió entre LliureX i tauletes
+Comment[ca_ES.UTF-8@valencia]=Assistent de connexió entre LliureX i tauletes
+Exec=lliurex-connect
+Terminal=false
+Icon=lliurex-connect
+Type=Application
+GenericName=lliurex-connect
+Categories=LliureX-Educacion-Especial;GTK

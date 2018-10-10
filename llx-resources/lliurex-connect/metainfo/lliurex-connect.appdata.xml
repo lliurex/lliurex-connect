@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+<id>lliurex-connect</id>
+<metadata_license>CC0-1.0</metadata_license>
+<name>LliureX Connect</name>
+<summary>Tablet Connection Asistant</summary>
+<summary xml:lang="es">Asistente de conexión a tabletas</summary>
+<summary xml:lang="ca_ES">Assistent de connexió a tauletes</summary>
+<summary xml:lang="ca_ES@valencia">Assistent de connexió a tauletes</summary>
+<summary xml:lang="ca_ES-UTF.8@valencia">Assistent de connexió a tauletes</summary>
+<description>
+<p>LliureX Connect allows you to connect you tablet with LliureX. It requires some Google Chrome extensions and some apps in your tablet with a double purpose: In one hand, to mirroring your tablet device in a window in a LliureX System; and in the other hand, allows you to run LliureX apps in the tablet, through an X server for Android.</p>
+<p xml:lang="es">LliureX Connect le permite conectar su tablet con LliureX. Para ello se utilizan algunas aplicaciones de Google Chrome, en forma de extensiones, y algunas apps para la tableta. Todo ello con un doble propósito: Por una parte, hacer mirroring de su tableta con LliureX, y por otra parte, permite ejecutar aplicaciones de LliureX en la tablet, a través de un servidor gráfico para Android.</p>
+<p xml:lang="ca_ES@valencia">LliureX Connect us permet connectar la vostra tauleta amb LliureX. Per a això, es fa ús d'algunes extensions de Google Chrome, i algunes apps per a la tauleta. Tot açò amb un doble propòsit: Per una banda fer Mirroring per veure a l'ordnimanor tot allò que passa a la tauleta, i per altra, permet executar aplicacions de LliureX a la tauleta a través d'un servidor gràfic per a Android.</p>
+<p xml:lang="ca_ES">LliureX Connect us permet connectar la vostra tauleta amb LliureX. Per a això, es fa ús d'algunes extensions de Google Chrome, i algunes apps per a la tauleta. Tot açò amb un doble propòsit: Per una banda fer Mirroring per veure a l'ordnimanor tot allò que passa a la tauleta, i per altra, permet executar aplicacions de LliureX a la tauleta a través d'un servidor gràfic per a Android.</p>
+</description>
+<categories>
+<category>Education</category>
+<category>Lliurex</category>
+<category>LliureX-Educacion-Especial</category>
+</categories>
+<icon type="stock">lliurex-connect</icon>
+<provides><binary>/usr/bin/lliurex-connect</binary></provides>
+<keywords>
+<keyword>android</keyword>
+<keyword>tablet</keyword>
+<keyword>connection</keyword>
+<keyword>mirroring</keyword>
+</keywords>
+<keywords xml:lang="es">
+<keyword>android</keyword>
+<keyword>tableta</keyword>
+<keyword>conexión</keyword>
+<keyword>mirroring</keyword>
+</keywords>
+<keywords xml:lang="ca_ES">
+<keyword>android</keyword>
+<keyword>tauleta</keyword>
+<keyword>conenxió</keyword>
+<keyword>mirroring</keyword>
+</keywords>
+</component>
