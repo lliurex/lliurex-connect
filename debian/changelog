@@ -1,0 +1,30 @@
+lliurex-connect (0.5) xenial; urgency=high
+
+  * Fixed nwjs call
+
+ -- joamuran <joamuran@gmail.com>  Fri, 16 Jun 2017 00:40:49 +0200
+
+lliurex-connect (0.4) xenial; urgency=high
+
+  * Fixed splash ui
+
+ -- Jose A. Murcia <joamuran@gmail.com>  Thu, 15 Jun 2017 13:42:19 +0200
+
+lliurex-connect (0.3) xenial; urgency=high
+
+  * Removed google chrome dependency using Screen Cast app
+
+ -- Jose A. Murcia <joamuran@gmail.com>  Thu, 15 Jun 2017 12:35:55 +0200
+
+lliurex-connect (0.2) xenial; urgency=high
+
+  * Added translations
+  * Fixed some bugs
+
+ -- Jose A. Murcia <joamuran@gmail.com>  Tue, 13 Jun 2017 11:13:51 +0200
+
+lliurex-connect (0.1) xenial; urgency=high
+
+  * Initial release.
+
+ -- Jose A. Murcia <joamuran@gmail.com>  Thu, 01 Jun 2017 13:33:12 +0200
