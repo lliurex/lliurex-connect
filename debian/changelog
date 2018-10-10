@@ -1,3 +1,9 @@
+lliurex-connect (0.15) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 10 Oct 2018 10:26:54 +0200
+
 lliurex-connect (0.5) xenial; urgency=high
 
   * Fixed nwjs call
